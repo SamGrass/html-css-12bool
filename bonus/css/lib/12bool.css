@@ -137,3 +137,30 @@
 .col-offset-11 {
     margin-left: calc((100% / 12) * 11);
 }
+
+/* flex agiuntivo */
+
+.jt-center {
+    justify-content: center;
+}
+
+.jt-end {
+    justify-content: flex-end;
+}
+
+.jt-between {
+    justify-content: space-between;
+}
+
+.jt-around {
+    justify-content: space-around;
+}
+
+.al-center {
+    align-items: center;
+}
+
+.al-end {
+    align-items: end;
+}
+
