@@ -11,4 +11,8 @@
 .box-green {
     min-height: 40px;
     background-color: #00e165;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 1px;
 }
