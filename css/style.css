@@ -1,0 +1,10 @@
+.box-blue {
+    min-height: 50px;
+    background-color: #006cfa;
+    padding: 0.5rem;
+}
+
+.box-green {
+    min-height: 40px;
+    background-color: #00e165;
+}
